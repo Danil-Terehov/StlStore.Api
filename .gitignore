@@ -1,0 +1,51 @@
+# Ignore the build results
+bin/
+obj/
+
+# User-specific files
+.vs/
+.vscode/
+.idea/
+
+# ASP.NET Core environment files
+appsettings.Development.json
+appsettings.Staging.json
+appsettings.Production.json
+
+# User secrets for development (only for local development, avoid versioning secrets)
+secrets/
+
+# Publish output
+publish/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows Installer Logs
+*.cab
+*.log
+
+# JetBrains Rider
+.idea/
+
+# ASP.NET Core Debug Files
+*.db
+*.bak
+*.log
+
+# Rider's config folder
+.idea/
+
+# DotCover (JetBrains Code Coverage Tool)
+.idea/.idea.coverage/
+
+# Temporary files created by .NET CLI tools (these are not meant to be checked into source control)
+.vs2019/
+.vs2017/
+
+# Dotnet build files
+.dnu/
+.dnx/
