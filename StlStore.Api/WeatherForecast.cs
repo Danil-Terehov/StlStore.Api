@@ -1,4 +1,4 @@
-namespace StlStore
+namespace StlStore.Api
 {
     public class WeatherForecast
     {
