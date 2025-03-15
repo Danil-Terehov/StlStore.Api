@@ -32,5 +32,10 @@ namespace StlStore.Api
 
             app.Run();
         }
+
+        public static void ConfigureServices(IServiceCollection services)
+        {
+
+        }
     }
 }
